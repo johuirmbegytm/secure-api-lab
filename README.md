@@ -19,7 +19,9 @@ cd secure-api-lab
 3.	Ініціалізація Node.js проєкту 
 
 Тепер, перебуваючи в теці secure-api-lab, ініціалізовуємо проєкт за допомогою менеджера пакетів npm. Ця команда автоматично створить файл package.json.
-ФОТО1
+
+[ФОТО1](https://github.com/johuirmbegytm/secure-api-lab/blob/main/images/1.png)
+
 4.	Встановлення Express Додамо у наш проєкт фреймворк Express. Він буде основою нашого сервера.
 
 ФОТО2
